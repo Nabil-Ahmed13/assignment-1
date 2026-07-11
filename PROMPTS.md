@@ -1,0 +1,1 @@
+Create a modern developer conference landing page for DevConf 2026 with  a “Why Attend DevConf 2026?” section. Keep the style sleek, with dark-and-light contrast, bold typography, blue primary buttons. The layout should feel premium, conversion-focused
