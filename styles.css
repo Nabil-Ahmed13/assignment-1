@@ -180,6 +180,10 @@ background-color: white;
 .team{
   background-color: #F8F9FB;
 }
+li::marker {
+color: #2563EB;
+}
+
 /* pricing style end */
 
 /* why attend style start */
@@ -272,11 +276,19 @@ background-color: white;
   cursor: pointer;
   }
   .bottom-bar{
+    display: flex;
+    justify-content: center;
     text-align: center;
     padding-bottom: 30px;
+    padding-top: 10px;
   }
+  .footer-logo{
+    padding: 0 10px;
+  }
+
   footer{
     background-color: #05050A;
     color: white;
   }
   /* footer style end */
+  
