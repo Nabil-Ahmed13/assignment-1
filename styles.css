@@ -21,6 +21,8 @@ header {
   align-items: center;
   padding: 20px 5%;
   background-color: #ffffffff;
+  position: sticky;
+  top: 0px;
 }
 .nav-links {
   list-style: none;
